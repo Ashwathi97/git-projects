@@ -1,2 +1,2 @@
 console.log("not inside source folder");
-console.log("index file2");
+console.log("index file3");
