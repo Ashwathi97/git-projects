@@ -1,2 +1,2 @@
 console.log("inside folder source");
-console.log("config file");
+console.log("config file2");
